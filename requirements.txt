@@ -1,1 +1,16 @@
-
+tkinter
+ttk
+filedialog 
+pygame
+mixer 
+os
+random
+time
+mutagen
+MP3
+ID3
+pillow
+ImageTk
+Image
+io
+BytesIO
